@@ -1,10 +1,7 @@
 {
- "cmV2":[
-{
-
-"candyMachineID":"abc"
-
-
-}
-]
+  "cmV2": [
+    {
+      "candyMachineID": "abc"
+    }
+  ]
 }
