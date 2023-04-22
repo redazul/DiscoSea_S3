@@ -8,7 +8,7 @@
       "lamportCost":1000000000,
       "authority":"GyY4JSwrJArWF1tM8a2BNCMhGoeU5EZZpauUsQzoAiYm",
       "mintRevWallet":"HKwGTWCAvBMoC6jh9TMx34BnZwUB2Eov71nJ1KiKjGpV",
-      "creator1":"HKwGTWCAvBMoC6jh9TMx34BnZwUB2Eov71nJ1KiKjGpV",
+      "creators":["HKwGTWCAvBMoC6jh9TMx34BnZwUB2Eov71nJ1KiKjGpV"]
     }
   ]
 }
