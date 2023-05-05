@@ -12,10 +12,10 @@
     },
         {
       "candyMachineID": "3qKZ42kQNovNxxyziRTJJtmBa3inTVtRWhKoxCxhXUfU",
-      "collectionImage": "https://nftstorage.link/ipfs/bafybeib4a3vizku2pbrmtjcfcfu45tqxswreskylln3zchljh4hkgmxhsm/29.jpg",
+      "collectionImage": "https://nftstorage.link/ipfs/bafybeib4kvqlsusq7up2v2ayrturp77qhe742xbnigbqldv4pcp7hrc5ja/collection.jpg",
       "splMint":0,
       "spl":"",
-      "lamportCost":1000000000,
+      "lamportCost":900000000,
       "authority":"DyMq5aKx6fjeGvfX7R8GwGwyv6WfrB5T3qwN5wkdUP3m",
       "mintRevWallet":"5F86TNSTre3CYwZd1wELsGQGhqG2HkN3d8zxhbyBSnzm",
       "creators":[{"c1":"AwUHni5cZVSeRhPJxG61GNoCHbeS9kcfTUHDNbCT2sFG", "royo": 100}]
