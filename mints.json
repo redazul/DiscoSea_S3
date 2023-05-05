@@ -8,7 +8,17 @@
       "lamportCost":1000000000,
       "authority":"GyY4JSwrJArWF1tM8a2BNCMhGoeU5EZZpauUsQzoAiYm",
       "mintRevWallet":"HKwGTWCAvBMoC6jh9TMx34BnZwUB2Eov71nJ1KiKjGpV",
-      "creators":["HKwGTWCAvBMoC6jh9TMx34BnZwUB2Eov71nJ1KiKjGpV"]
+      "creators":[{"c1":"HKwGTWCAvBMoC6jh9TMx34BnZwUB2Eov71nJ1KiKjGpV", "royo": 100}]
+    },
+        {
+      "candyMachineID": "3qKZ42kQNovNxxyziRTJJtmBa3inTVtRWhKoxCxhXUfU",
+      "collectionImage": "https://nftstorage.link/ipfs/bafybeib4a3vizku2pbrmtjcfcfu45tqxswreskylln3zchljh4hkgmxhsm/29.jpg",
+      "splMint":0,
+      "spl":"",
+      "lamportCost":1000000000,
+      "authority":"DyMq5aKx6fjeGvfX7R8GwGwyv6WfrB5T3qwN5wkdUP3m",
+      "mintRevWallet":"5F86TNSTre3CYwZd1wELsGQGhqG2HkN3d8zxhbyBSnzm",
+      "creators":[{"c1":"AwUHni5cZVSeRhPJxG61GNoCHbeS9kcfTUHDNbCT2sFG", "royo": 100}]
     }
   ]
 }
