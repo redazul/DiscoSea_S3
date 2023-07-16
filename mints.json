@@ -1,15 +1,15 @@
 {
   "cmV2": [
      {
-      "candyMachineID": "2yV8CAKEHaShg64tsGqoY6DJJyoms9UbjnwYoHLeCosx",
+      "candyMachineID": "9ZWeXwymVuDZAaexCXNUoZ8GrrsSsx3NntVoNaVvLykZ",
       "collectionMintID":"FrSHSHCLykKMLeKMTxKh9tRD1CezDahHXfV77pZecL8D",
       "collectionImage": "https://nftstorage.link/ipfs/bafybeib4kvqlsusq7up2v2ayrturp77qhe742xbnigbqldv4pcp7hrc5ja/collection.jpg",
       "splMint":0,
       "spl":"",
-      "lamportCost":100000000,
+      "lamportCost":10000000,
       "authority":"9z8eyT5meZsQK79Pm2rmqBQcQKfj6tWJfRVbjQczyKcK",
-      "mintRevWallet":"55HiU5kcEwixQGoLhg1B9L49z5uwNRCY1AU4hQs7f8yy",
-      "creators":[{"creator":"AqNVEgnwF3Si2nNGY3DoLGKL4cwm1ZUUomVmVkdQb3SV", "royalty": 100}]
+      "mintRevWallet":"6SxwedkU3xLPApLGZ8WeFDaGRhb53mbPQgsWSheKFj9B",
+      "creators":[{"creator":"85Kr8vfkLC6MxP9CRgWJJYQrrdgyp2Uo9E9i3xjszkis", "royalty": 100}]
     }
   ]
 }
